@@ -1,0 +1,15 @@
+D:\WorkSpace\CSharpProkect\UnityLearn\bin\Debug\net9.0\UnityLearns.exe
+D:\WorkSpace\CSharpProkect\UnityLearn\bin\Debug\net9.0\UnityLearns.deps.json
+D:\WorkSpace\CSharpProkect\UnityLearn\bin\Debug\net9.0\UnityLearns.runtimeconfig.json
+D:\WorkSpace\CSharpProkect\UnityLearn\bin\Debug\net9.0\UnityLearns.dll
+D:\WorkSpace\CSharpProkect\UnityLearn\bin\Debug\net9.0\UnityLearns.pdb
+D:\WorkSpace\CSharpProkect\UnityLearn\obj\Debug\net9.0\UnityLearns.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\CSharpProkect\UnityLearn\obj\Debug\net9.0\UnityLearns.AssemblyInfoInputs.cache
+D:\WorkSpace\CSharpProkect\UnityLearn\obj\Debug\net9.0\UnityLearns.AssemblyInfo.cs
+D:\WorkSpace\CSharpProkect\UnityLearn\obj\Debug\net9.0\UnityLearns.csproj.CoreCompileInputs.cache
+D:\WorkSpace\CSharpProkect\UnityLearn\obj\Debug\net9.0\UnityLearns.sourcelink.json
+D:\WorkSpace\CSharpProkect\UnityLearn\obj\Debug\net9.0\UnityLearns.dll
+D:\WorkSpace\CSharpProkect\UnityLearn\obj\Debug\net9.0\refint\UnityLearns.dll
+D:\WorkSpace\CSharpProkect\UnityLearn\obj\Debug\net9.0\UnityLearns.pdb
+D:\WorkSpace\CSharpProkect\UnityLearn\obj\Debug\net9.0\UnityLearns.genruntimeconfig.cache
+D:\WorkSpace\CSharpProkect\UnityLearn\obj\Debug\net9.0\ref\UnityLearns.dll
