@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSpace\\CSharpProkect\\UnityLearns\\UnityLearns.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\CSharpProkect\\UnityLearn\\UnityLearns.csproj",
       "projectName": "UnityLearns",
-      "projectPath": "D:\\WorkSpace\\CSharpProkect\\UnityLearns\\UnityLearns.csproj",
+      "projectPath": "D:\\WorkSpace\\CSharpProkect\\UnityLearn\\UnityLearns.csproj",
       "packagesPath": "C:\\Users\\25330\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpace\\CSharpProkect\\UnityLearns\\obj\\",
+      "outputPath": "D:\\WorkSpace\\CSharpProkect\\UnityLearn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\25330\\AppData\\Roaming\\NuGet\\NuGet.Config"
