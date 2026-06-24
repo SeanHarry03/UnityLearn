@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSpace\\CSharpProkect\\UnityLearn\\UnityLearns.csproj",
+      "projectUniqueName": "C:\\Users\\25330\\Documents\\UnityProject\\UnityLearn\\UnityLearns.csproj",
       "projectName": "UnityLearns",
-      "projectPath": "D:\\WorkSpace\\CSharpProkect\\UnityLearn\\UnityLearns.csproj",
+      "projectPath": "C:\\Users\\25330\\Documents\\UnityProject\\UnityLearn\\UnityLearns.csproj",
       "packagesPath": "C:\\Users\\25330\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpace\\CSharpProkect\\UnityLearn\\obj\\",
+      "outputPath": "C:\\Users\\25330\\Documents\\UnityProject\\UnityLearn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\25330\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\25330\\.dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\25330\\.dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
