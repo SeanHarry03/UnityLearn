@@ -59,6 +59,13 @@ public class StudentMgr
             Age = 21,
         }
     };
+
+    public static List<Course> Courses = new List<Course>()
+    {
+        new Course { CourseID = 101, CourseName = "语文" },
+        new Course { CourseID = 102, CourseName = "数学" },
+        new Course { CourseID = 103, CourseName = "英语" }
+    };
 }
 
 public class StudentInfo
@@ -72,7 +79,7 @@ public class StudentInfo
 
     public int Age { get; set; }
 
-    
+
     public IEnumerable<string> GetTages()
     {
         yield return ClassID.ToString();
